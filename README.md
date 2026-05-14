@@ -130,4 +130,5 @@ The discretes get exact handling via enumeration. The sweep variable gets exact 
 
 ## Pipeline diagram
 
-<img width="1840" height="3030" alt="Image" src="https://github.com/user-attachments/assets/4236dd74-fb33-4fc4-b662-29f3ba1822f3" />
+<img width="1840" height="3035" alt="stratified mc" src="https://github.com/user-attachments/assets/6c499026-ffbc-4037-bc94-691c30185c3e" />
+
